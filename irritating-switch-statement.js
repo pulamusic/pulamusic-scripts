@@ -23,7 +23,7 @@ switch(answer) {
         console.log("You know, I've never really bee a fan of seven. I don't know what it is, but the number seven creeps me out.");
         break;
     case '8':
-        console.log("ESPN8 - The OCHO.");
+        console.log("ESPN8 - The OCHO!");
         break;
     case '9':
         console.log("Almost there.... Must...make..it...further...");
