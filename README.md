@@ -16,6 +16,10 @@ I'm using [codebeautify.org to validate the js](https://codebeautify.org/jsvalid
 
 Check out [this chapter of an e-book on js libraries](https://info340.github.io/javascript-libraries.html), as well as [this chapter on AJAX and the use of APIs](https://info340.github.io/ajax.html#asynchronous-programming).
 
+Check out [this 2018 article on js libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade).
+
+Updated article [on js tools in 2021](https://x-team.com/blog/essential-javascript-tools/).
+
 ---
 
 ## active-scripts

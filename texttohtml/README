@@ -1,0 +1,13 @@
+                           texttohtml
+
+This is a trivial lex program that converts plain text into HTML.
+It adds the proper escape sequences, and makes links active.
+
+Files in this distribution:
+
+    README		this
+    Makefile		guess
+    texttohtml.l	lex source file
+    texttohtml.1	manual entry
+
+    Jef Poskanzer  jef@mail.acme.com  http://www.acme.com/jef/
