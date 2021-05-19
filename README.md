@@ -8,7 +8,7 @@
 
 This is a repo of utility scripts I often reuse, using them with [jsDelivr open-source CDN](https://www.jsdelivr.com/github).
 
-I'm using [codebeautify.org to validate the js](https://codebeautify.org/jsvalidate).
+I'm using [codebeautify.org to validate the js](https://codebeautify.org/jsvalidate). I should, though, be writing my own tests.
 
 ---
 
@@ -29,7 +29,7 @@ Updated article [on js tools in 2021](https://x-team.com/blog/essential-javascri
 A simple script that updates the copyright year.
 
 ```html
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pulamusic/pulamusic-scripts@master/copyright.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pulamusic/pulamusic-scripts@master/active-scripts/copyright.js"></script>
 ```
 
 #### time-zone-offset.js
